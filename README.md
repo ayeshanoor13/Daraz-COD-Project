@@ -44,9 +44,8 @@ Using 494,463 historical orders from Pakistan's Largest E-Commerce Dataset, this
 ├── README.md                 # Project summary, methodology, and Before vs. After impact
 ├── ayeshanoor05.ipynb        # End-to-end data loading, feature engineering, LightGBM training, and profit simulation
 ├── ayeshanoor05.pdf          # 12-slide executive presentation deck
-└── charts/                   # Exported visualizations 
-    ├── status_donut.png
-    ├── feature_trends_4panel.png
-    ├── top_features.png
-    ├── risk_distribution.png
-    └── profit_simulation.png
+├── status_donut.png
+├── feature_trends_4panel.png
+├── top_features.png
+├── risk_distribution.png
+└── profit_simulation.png
